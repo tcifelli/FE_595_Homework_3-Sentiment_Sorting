@@ -31,7 +31,7 @@ Function Descriptions:
   * sorts the dataset by sentiment score and returns a subset of the n highest-scoring companies
 * getNWorstCompanies(n)
   * sorts the dataset by sentiment score and returns a subset of the n lowest-scoring companies
-* printNPolarizingCompanies(n)
+* printNPolarizingCompanyIdeas(n)
   * n has a default value of 1
   * calls 'getNBestCompanies' and 'getNWorstCompanies' respectively and prints out the purposes of the companies returned
 * printNMostCommonPurposeWords(n, removeStopwords)
